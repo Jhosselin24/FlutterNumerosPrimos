@@ -1,4 +1,4 @@
-# 🔢 Flutter Numeros Primos
+# 🔢 Flutter Números Primos
  
 Una aplicación Flutter que muestra números primos de forma secuencial. Cada vez que presionas el botón, el contador avanza al siguiente número primo.
  
